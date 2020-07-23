@@ -1,0 +1,10 @@
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\bin\Debug\Picture Viewer Project 5.exe.config
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\bin\Debug\Picture Viewer Project 5.exe
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\bin\Debug\Picture Viewer Project 5.pdb
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture Viewer Project 5.csprojAssemblyReference.cache
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture_Viewer_Project_5.Form1.resources
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture_Viewer_Project_5.Properties.Resources.resources
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture Viewer Project 5.csproj.GenerateResource.cache
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture Viewer Project 5.csproj.CoreCompileInputs.cache
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture Viewer Project 5.exe
+D:\THE GAME FOLDER\7zip Files\Picture Viewer Project 5\Picture Viewer Project 5\obj\Debug\Picture Viewer Project 5.pdb
